@@ -138,8 +138,7 @@ story/
 
 ## Demo Video
 
-Watch the demo of the system:  
-[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+[Watch or Download the Demo Video](Screen%20Recording%202025-01-07%20232402.mp4)
 
 ---
 
